@@ -231,7 +231,7 @@ export function WorkPageClient() {
               Let's build something together.
             </h2>
             <a
-              href="mailto:hello@rafsalrahim.dev"
+              href="mailto:rafsalkrahim@gmail.com"
               className="btn btn-primary text-base px-6"
             >
               Get in touch

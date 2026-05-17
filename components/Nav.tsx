@@ -146,7 +146,7 @@ export function Nav() {
                 className="mt-4 px-4"
               >
                 <a
-                  href="mailto:hello@rafsalrahim.dev"
+                  href="mailto:rafsalkrahim@gmail.com"
                   className="btn btn-primary w-full text-base"
                 >
                   Hire me
